@@ -1,0 +1,1 @@
+<image src = /snow.png> 
